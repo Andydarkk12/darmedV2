@@ -7,6 +7,9 @@ const port = 8000
 
 app.use(cors());
 app.use(express.json());
+//7063397337 darmed
+//1644953534 me
+//1859791845 mom
 
 const bot = new TelegramBot(token, {
     polling: true
